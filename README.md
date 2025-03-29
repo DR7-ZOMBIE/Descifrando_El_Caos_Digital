@@ -4,6 +4,10 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 
 ---
 
+## Descarga todos los archivos de reto en el siguiente link:
+
+`URL:` https://drive.google.com/file/d/18Ev30_7YN43Ded_G1JcYoge0WDYMA45E/view?usp=sharing 
+
 ## 📁 Contenido del repositorio y orden de trabajo para solucionar:
 
 1. **Página web sospechosa:**  
@@ -161,5 +165,9 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 ## 🚀 Desafío Final: Flag del CTF  
 Una vez identificado el malware, el nombre debe estar envuelto en el formato:  
 - **CTF{nombre_del_malware&calculo_del_hash_del_malware_SHA-256&nombre_de_la_llave_que_cifro_la_data}** 
+
+## Descarga todos los archivos de reto en el siguiente link:
+
+`URL:` https://drive.google.com/file/d/18Ev30_7YN43Ded_G1JcYoge0WDYMA45E/view?usp=sharing 
 
 ¡Buena suerte, analista! La victoria pertenece a quienes ven patrones donde otros solo ven caos.  
