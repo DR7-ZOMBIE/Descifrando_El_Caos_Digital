@@ -115,7 +115,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 - Protocolo de manejo y preservación de la evidencia  
 
 ### **6. Análisis y Resultados**  
-- Identificación del malware  
+- Identificación del malware alineado a Mitre&Att@ck tácticas, tecnicas y procedimientos utilizados por el cibertacante 
 - Análisis de tráfico de red  
 - Extracción de IoCs  
 - Análisis de memoria volátil  
