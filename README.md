@@ -119,7 +119,8 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 - Análisis de tráfico de red  
 - Extracción de IoCs  
 - Análisis de memoria volátil  
-- Conexión entre el proceso malicioso y el tráfico identificado  
+- Conexión entre el proceso malicioso y el tráfico identificado
+- Repesentación visual con estadística y explique cada gráfico porque es vital  
 
 ### **7. Conclusiones**  
 - Resumen de hallazgos clave  
