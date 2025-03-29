@@ -73,7 +73,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 
 5. **Generación del Flag:**  
    - Una vez identificado el nombre del ransomware y sú hash, genera el flag en el siguiente formato:  
-     - **CTF{nombre_del_malware&nombre_del_hash}**  
+     - **CTF{nombre_del_malware&calculo_del_hash_del_malware_SHA-256&nombre_de_la_llave_que_cifro_la_data}**  
 
 ---
 
