@@ -4,7 +4,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 
 ---
 
-## 📁 Contenido del Repositorio
+## 📁 Contenido del repositorio y orden de trabajo para solucionar:
 
 1. **Página web sospechosa:**  
    - `attack_webpage.html` - Página web posiblemente utilizada en el ataque.
@@ -40,20 +40,24 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 
 ## 🔍 Análisis de Proceso Malicioso
 
-### Proceso Malicioso Identificado:
+### Proceso Malicioso Identificado: [Encuentralos]
 
-### Conexión Maliciosa Detectada:
+### Conexión Maliciosa Detectada: [Encuentralos]
 
 ---
 
-## 🧩 Pasos del Análisis
+## 🧩 Pasos del análisis final en la imagen de memoria RAM 
+
+## Comando y relación volatility2 y volaitlity3
+
+**Cheat sheet guía:** http://blog.onfvp.com/post/volatility-cheatsheet/
 
 1. **Identificación de Procesos:**  
    - Utiliza **pslist** para identificar el proceso malicioso.  
-   - Identifica procesos duplicados o inusuales como `msedge.exe`.  
+   - Identifica procesos duplicados o inusuales como `Encuentralo!!`.  
 
 2. **Conexiones de Red:**  
-   - Analiza el tráfico con **Wireshark** para determinar las conexiones de la víctima y el atacante.  
+   - Analiza el tráfico con **netstat** para determinar las conexiones de la víctima y el atacante.  
    - Verifica los puertos y la IP fuente/destino.  
 
 3. **Análisis de Memoria:**  
@@ -62,7 +66,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
    - Realiza un análisis de la imagen de memoria con herramientas como **Volatility**.  
 
 4. **Análisis del Ransomware:**  
-   - Extrae el proceso malicioso y verifica el hash en **VirusTotal** o **Hybrid Analysis**.  
+   - Extrae el proceso malicioso con  y verifica el hash en **VirusTotal** o **Hybrid Analysis**.  
    - Usa **CyberChef** para analizar cadenas cifradas.  
    - Genera el hash del malware y realiza una búsqueda en bases de datos de amenazas conocidas.  
    - **Hash del malware:**
@@ -156,6 +160,6 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 
 ## 🚀 Desafío Final: Flag del CTF  
 Una vez identificado el malware, el nombre debe estar envuelto en el formato:  
-- **CTF{nombre_del_malware&nombre_del_hash}** 
+- **CTF{nombre_del_malware&calculo_del_hash_del_malware_SHA-256&nombre_de_la_llave_que_cifro_la_data}** 
 
 ¡Buena suerte, analista! La victoria pertenece a quienes ven patrones donde otros solo ven caos.  
