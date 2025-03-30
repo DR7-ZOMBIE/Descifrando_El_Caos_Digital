@@ -14,7 +14,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
    - `attack_webpage.html` - Página web posiblemente utilizada en el ataque.
    - `url de acceso:` - https://evento-marzo-ciber-eia-5ae47.web.app/
    - `Los archvios se encuentran en la página en donde se habilita a las 8 p.m para redireccionar al repositorio y poder descargarlos!!!!`
-   - `Algo está oculto en la página web en donde accediste al reto lo necesitas para poder continuar`
+   - `Algo está oculto en la página web en donde accediste al reto, lo necesitas para poder continuar`
 
 2. **Archivo de reglas del firewall:**  
    - `firewall_rules.txt` - Reglas utilizadas durante el ataque.  
