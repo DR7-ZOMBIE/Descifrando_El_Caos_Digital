@@ -1,4 +1,4 @@
-# 🛡️ Descifrando el Caos Digital: El Desafío Forense y Analista de Ciberseguridad
+# 🛡️ Descifrando el caos digital: el Desafío Forense y Analista de Ciberseguridad
 
 Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto está diseñado para poner a prueba tus habilidades como analista de ciberseguridad, enfrentándote a un ataque complejo que requiere un enfoque estructurado y un análisis técnico detallado. ¿Tienes lo necesario para descifrar el caos digital? ¡Vamos a descubrirlo!
 
@@ -71,7 +71,7 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
    - Realiza un análisis de la imagen de memoria con herramientas como **Volatility**.  
 
 4. **Análisis del Ransomware:**  
-   - Extrae el proceso malicioso con  y verifica el hash en **VirusTotal** o **Hybrid Analysis**.  
+   - Extraer el proceso malicioso con volaitlity  y verifica el hash en **VirusTotal** o **Hybrid Analysis**.  
    - Usa **CyberChef** para analizar cadenas cifradas.  
    - Genera el hash del malware y realiza una búsqueda en bases de datos de amenazas conocidas.  
    - **Hash del malware:**
@@ -149,18 +149,21 @@ Bienvenidos al desafío forense **"Descifrando el Caos Digital"**. Este proyecto
 - **IP Abuse DB:** Verificación de IPs maliciosas  
 
 ### **Análisis de Red**  
-- **Wireshark:** Inspección de tráfico de red  
+- **Wireshark:** Inspección de tráfico de red
+- **TCPdump:** Inspección de tráfico de red  
 
 ### **Análisis de Memoria**  
 - **Volatility:** Análisis forense de RAM  
 - **Malfind:** Detección de inyecciones de código  
 - **Strings:** Extracción de cadenas de texto  
-- **File:** Identificación de tipos de archivos  
+- **File:** Identificación de tipos de archivos
+- **Hexeditor:** Análisis hexadecimal 
 
 ### **Ingeniería Inversa**  
 - **Ghidra:** Desensamblado y análisis binario  
 - **CyberChef:** Decodificación de cadenas  
-- **OpenSSL:** Verificación de cifrado  
+- **OpenSSL:** Verificación de cifrado
+- **Adafree:** Desamblado y análisis binario
 
 ---
 
